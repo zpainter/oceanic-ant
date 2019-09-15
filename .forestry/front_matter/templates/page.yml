@@ -63,7 +63,6 @@ fields:
   config:
     required: true
 pages:
-- content/terms.md
 - content/right-sidebar.md
 - content/privacy.md
 - content/no-sidebar.md
