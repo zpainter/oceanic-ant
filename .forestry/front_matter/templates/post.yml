@@ -91,7 +91,6 @@ fields:
   config:
     required: true
 pages:
-- content/posts/post-07.md
 - content/posts/post-05.md
 - content/posts/post-03.md
 - content/posts/post-01.md
